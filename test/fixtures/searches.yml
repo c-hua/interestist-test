@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  keyword: MyString
+  date: 2014-06-13
+  location: MyString
+  likes: false
+
+two:
+  keyword: MyString
+  date: 2014-06-13
+  location: MyString
+  likes: false
